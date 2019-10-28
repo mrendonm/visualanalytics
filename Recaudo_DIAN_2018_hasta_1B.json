@@ -102,26 +102,6 @@
 	]
   },
   {
-   "name": "CALI",
-   "children": [
-		{"name": "RIQUEZA", "value":  33104 },
-		{"name": "PATRIMONIO", "value":  789 },
-		{"name": "RENTA CUOTAS", "value":  883443 },
-		{"name": "IVA DECLARACIONES", "value":  2518518 },
-		{"name": "RETENCIONES", "value":  3060161 },
-		{"name": "EXTERNOS", "value":  0 },
-		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
-		{"name": "PRECIOS DE TRANSFERENCIA", "value":  161 },
-		{"name": "GMF", "value":  467044 },
-		{"name": "CONSUMO", "value":  183685 },
-		{"name": "GASOLINA Y ACPM", "value":  0 },
-		{"name": "CREE RETENCIONES", "value":  713 },
-		{"name": "CREE DECLARACIONES", "value":  10767 },
-		{"name": "AL CARBONO", "value":  0 },
-		{"name": "POR CLASIFICAR", "value":  3827 }
-	]
-  }, 
-  {
    "name": "CUCUTA",
    "children": [
 		{"name": "PATRIMONIO", "value":  310 },
