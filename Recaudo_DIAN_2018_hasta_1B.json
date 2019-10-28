@@ -1,0 +1,706 @@
+{
+ "name": "RECAUDO",
+ "children": [
+  {
+  {
+   "name": "ADUANAS DE CUCUTA",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  0 },
+		{"name": "IVA DECLARACIONES", "value":  0 },
+		{"name": "RETENCIONES", "value":  0 },
+		{"name": "EXTERNOS", "value":  20399 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  0 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  0 },
+		{"name": "CREE DECLARACIONES", "value":  0 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  0 },
+		{"name": "PATRIMONIO", "value":  0 },
+		{"name": "RIQUEZA", "value":  0 }
+	]
+  },
+  {
+   "name": "ADUANAS DE MEDELLIN",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  0 },
+		{"name": "IVA DECLARACIONES", "value":  0 },
+		{"name": "RETENCIONES", "value":  0 },
+		{"name": "EXTERNOS", "value":  818075 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  0 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  0 },
+		{"name": "CREE DECLARACIONES", "value":  0 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  0 },
+		{"name": "PATRIMONIO", "value":  0 },
+		{"name": "RIQUEZA", "value":  0 }
+	]
+  },
+  {
+   "name": "ARAUCA",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  9491 },
+		{"name": "IVA DECLARACIONES", "value":  12992 },
+		{"name": "RETENCIONES", "value":  40624 },
+		{"name": "EXTERNOS", "value":  186 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  530 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  12 },
+		{"name": "CREE DECLARACIONES", "value":  278 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  171 },
+		{"name": "RIQUEZA", "value":  134 },
+		{"name": "PATRIMONIO", "value":  0 }
+	]
+  },
+  {
+   "name": "ARMENIA",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  69179 },
+		{"name": "IVA DECLARACIONES", "value":  118276 },
+		{"name": "RETENCIONES", "value":  114100 },
+		{"name": "EXTERNOS", "value":  19241 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  7 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  3 },
+		{"name": "GMF", "value":  716 },
+		{"name": "CONSUMO", "value":  12313 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  12 },
+		{"name": "CREE DECLARACIONES", "value":  773 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  825 },
+		{"name": "PATRIMONIO", "value":  87 },
+		{"name": "RIQUEZA", "value":  2560 }
+	]
+  },
+  {
+   "name": "BARRANCABERMEJA",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  24545 },
+		{"name": "IVA DECLARACIONES", "value":  74466 },
+		{"name": "RETENCIONES", "value":  73209 },
+		{"name": "EXTERNOS", "value":  13 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  322 },
+		{"name": "CONSUMO", "value":  2719 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  5 },
+		{"name": "CREE DECLARACIONES", "value":  409 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  526 },
+		{"name": "PATRIMONIO", "value":  5 },
+		{"name": "RIQUEZA", "value":  674 }
+	]
+  },
+  {
+   "name": "CALI",
+   "children": [
+		{"name": "RIQUEZA", "value":  33104 },
+		{"name": "PATRIMONIO", "value":  789 },
+		{"name": "RENTA CUOTAS", "value":  883443 },
+		{"name": "IVA DECLARACIONES", "value":  2518518 },
+		{"name": "RETENCIONES", "value":  3060161 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  161 },
+		{"name": "GMF", "value":  467044 },
+		{"name": "CONSUMO", "value":  183685 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  713 },
+		{"name": "CREE DECLARACIONES", "value":  10767 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  3827 }
+	]
+  }, 
+  {
+   "name": "CUCUTA",
+   "children": [
+		{"name": "PATRIMONIO", "value":  310 },
+		{"name": "RIQUEZA", "value":  4903 },
+		{"name": "RENTA CUOTAS", "value":  115953 },
+		{"name": "IVA DECLARACIONES", "value":  173095 },
+		{"name": "RETENCIONES", "value":  300814 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  2372 },
+		{"name": "CONSUMO", "value":  13924 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  639 },
+		{"name": "CREE DECLARACIONES", "value":  1001 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  1204 }
+	]
+  },   
+  {
+   "name": "FLORENCIA",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  17184 },
+		{"name": "IVA DECLARACIONES", "value":  27032 },
+		{"name": "RETENCIONES", "value":  46102 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  16 },
+		{"name": "CONSUMO", "value":  1011 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  3 },
+		{"name": "CREE DECLARACIONES", "value":  39 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  2229 },
+		{"name": "RIQUEZA", "value":  575 },
+		{"name": "PATRIMONIO", "value":  0 }
+	]
+  },   
+  {
+   "name": "GIRARDOT",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  23879 },
+		{"name": "IVA DECLARACIONES", "value":  31366 },
+		{"name": "RETENCIONES", "value":  49457 },
+		{"name": "EXTERNOS", "value":  6 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  4116 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  43 },
+		{"name": "CREE DECLARACIONES", "value":  311 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  257 },
+		{"name": "PATRIMONIO", "value":  18 },
+		{"name": "RIQUEZA", "value":  827 }
+	]
+  },   
+  {
+   "name": "IBAGUE",
+   "children": [
+		{"name": "RIQUEZA", "value":  3145 },
+		{"name": "RENTA CUOTAS", "value":  84332 },
+		{"name": "IVA DECLARACIONES", "value":  172222 },
+		{"name": "RETENCIONES", "value":  213768 },
+		{"name": "EXTERNOS", "value":  20 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  304 },
+		{"name": "CONSUMO", "value":  17957 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  117 },
+		{"name": "CREE DECLARACIONES", "value":  668 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  610 },
+		{"name": "PATRIMONIO", "value":  10 }
+	]
+  },   
+  {
+   "name": "INIRIDA",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  1383 },
+		{"name": "IVA DECLARACIONES", "value":  805 },
+		{"name": "RETENCIONES", "value":  4178 },
+		{"name": "EXTERNOS", "value":  13 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  49 },
+		{"name": "CONSUMO", "value":  36 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  0 },
+		{"name": "CREE DECLARACIONES", "value":  0 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  9 },
+		{"name": "RIQUEZA", "value":  6 },
+		{"name": "PATRIMONIO", "value":  0 }
+	]
+  },   
+  {
+   "name": "IPIALES",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  0 },
+		{"name": "IVA DECLARACIONES", "value":  0 },
+		{"name": "RETENCIONES", "value":  0 },
+		{"name": "EXTERNOS", "value":  258396 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  0 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  0 },
+		{"name": "CREE DECLARACIONES", "value":  0 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  0 },
+		{"name": "PATRIMONIO", "value":  0 },
+		{"name": "RIQUEZA", "value":  0 }
+	]
+  },   
+  {
+   "name": "LETICIA",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  6074 },
+		{"name": "IVA DECLARACIONES", "value":  33 },
+		{"name": "RETENCIONES", "value":  8365 },
+		{"name": "EXTERNOS", "value":  119 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  1 },
+		{"name": "CONSUMO", "value":  0 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  143 },
+		{"name": "CREE DECLARACIONES", "value":  14 },
+		{"name": "AL CARBONO", "value":  95 },
+		{"name": "POR CLASIFICAR", "value":  450 },
+		{"name": "RIQUEZA", "value":  127 },
+		{"name": "PATRIMONIO", "value":  0 }
+	]
+  },   
+  {
+   "name": "MAICAO",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  0 },
+		{"name": "IVA DECLARACIONES", "value":  0 },
+		{"name": "RETENCIONES", "value":  0 },
+		{"name": "EXTERNOS", "value":  14971 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  0 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  0 },
+		{"name": "CREE DECLARACIONES", "value":  0 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  0 },
+		{"name": "PATRIMONIO", "value":  0 },
+		{"name": "RIQUEZA", "value":  0 }
+	]
+  },   
+  {
+   "name": "MANIZALES",
+   "children": [
+		{"name": "RIQUEZA", "value":  4119 },
+		{"name": "RENTA CUOTAS", "value":  153276 },
+		{"name": "IVA DECLARACIONES", "value":  293918 },
+		{"name": "RETENCIONES", "value":  406125 },
+		{"name": "EXTERNOS", "value":  6580 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  1 },
+		{"name": "PATRIMONIO", "value":  4 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  409 },
+		{"name": "CONSUMO", "value":  28699 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  14 },
+		{"name": "CREE DECLARACIONES", "value":  1388 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  614 }
+	]
+  },    
+  {
+   "name": "MITU",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  495 },
+		{"name": "IVA DECLARACIONES", "value":  277 },
+		{"name": "RETENCIONES", "value":  2954 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  7 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  0 },
+		{"name": "CREE DECLARACIONES", "value":  0 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  0 },
+		{"name": "RIQUEZA", "value":  14 },
+		{"name": "PATRIMONIO", "value":  0 }
+	]
+  },   
+  {
+   "name": "MONTERIA",
+   "children": [
+		{"name": "RIQUEZA", "value":  6376 },
+		{"name": "PATRIMONIO", "value":  101 },
+		{"name": "RENTA CUOTAS", "value":  62665 },
+		{"name": "IVA DECLARACIONES", "value":  96903 },
+		{"name": "RETENCIONES", "value":  176414 },
+		{"name": "EXTERNOS", "value":  8 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  10642 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  45 },
+		{"name": "CREE DECLARACIONES", "value":  1464 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  825 }
+	]
+  },   
+  {
+   "name": "NEIVA",
+   "children": [
+		{"name": "PATRIMONIO", "value":  70 },
+		{"name": "RIQUEZA", "value":  1550 },
+		{"name": "RENTA CUOTAS", "value":  91367 },
+		{"name": "IVA DECLARACIONES", "value":  165921 },
+		{"name": "RETENCIONES", "value":  254794 },
+		{"name": "EXTERNOS", "value":  2 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  3657 },
+		{"name": "CONSUMO", "value":  10442 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  69 },
+		{"name": "CREE DECLARACIONES", "value":  436 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  927 }
+	]
+  },   
+  {
+   "name": "PALMIRA",
+   "children": [
+		{"name": "PATRIMONIO", "value":  83 },
+		{"name": "RIQUEZA", "value":  1785 },
+		{"name": "RENTA CUOTAS", "value":  151666 },
+		{"name": "IVA DECLARACIONES", "value":  253212 },
+		{"name": "RETENCIONES", "value":  322004 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  6 },
+		{"name": "GMF", "value":  887 },
+		{"name": "CONSUMO", "value":  4878 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  82 },
+		{"name": "CREE DECLARACIONES", "value":  558 },
+		{"name": "AL CARBONO", "value":  27 },
+		{"name": "POR CLASIFICAR", "value":  316 }		
+	]
+  },   
+  {
+   "name": "PASTO",
+   "children": [
+		{"name": "PATRIMONIO", "value":  90 },
+		{"name": "RIQUEZA", "value":  1912 },
+		{"name": "RENTA CUOTAS", "value":  72684 },
+		{"name": "IVA DECLARACIONES", "value":  94279 },
+		{"name": "RETENCIONES", "value":  205339 },
+		{"name": "EXTERNOS", "value":  206 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  152 },
+		{"name": "CONSUMO", "value":  18877 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  32 },
+		{"name": "CREE DECLARACIONES", "value":  249 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  1308 }
+	]
+  },     
+  {
+   "name": "POPAYAN",
+   "children": [
+		{"name": "PATRIMONIO", "value":  847 },
+		{"name": "RIQUEZA", "value":  2056 },
+		{"name": "RENTA CUOTAS", "value":  119707 },
+		{"name": "IVA DECLARACIONES", "value":  342812 },
+		{"name": "RETENCIONES", "value":  327155 },
+		{"name": "EXTERNOS", "value":  2 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  52 },
+		{"name": "GMF", "value":  5816 },
+		{"name": "CONSUMO", "value":  6829 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  3 },
+		{"name": "CREE DECLARACIONES", "value":  188 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  449 }		
+	]
+  },   
+  {
+   "name": "PUERTO ASIS",
+   "children": [
+		{"name": "PATRIMONIO", "value":  0 },
+		{"name": "RENTA CUOTAS", "value":  8797 },
+		{"name": "IVA DECLARACIONES", "value":  19937 },
+		{"name": "RETENCIONES", "value":  26604 },
+		{"name": "EXTERNOS", "value":  14690 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  139 },
+		{"name": "CONSUMO", "value":  408 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  18 },
+		{"name": "CREE DECLARACIONES", "value":  460 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  22 },
+		{"name": "RIQUEZA", "value":  92 }
+	]
+  },   
+  {
+   "name": "PUERTO CARREÑO",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  726 },
+		{"name": "IVA DECLARACIONES", "value":  971 },
+		{"name": "RETENCIONES", "value":  6466 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  29 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  3 },
+		{"name": "CREE DECLARACIONES", "value":  3 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  0 },
+		{"name": "RIQUEZA", "value":  4 },
+		{"name": "PATRIMONIO", "value":  0 }
+	]
+  },   
+  {
+   "name": "QUIBDO",
+   "children": [
+		{"name": "PATRIMONIO", "value":  16 },
+		{"name": "RIQUEZA", "value":  466 },
+		{"name": "RENTA CUOTAS", "value":  8236 },
+		{"name": "IVA DECLARACIONES", "value":  14245 },
+		{"name": "RETENCIONES", "value":  42194 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  22 },
+		{"name": "CONSUMO", "value":  869 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  381 },
+		{"name": "CREE DECLARACIONES", "value":  91 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  417 }
+	]
+  },   
+  {
+   "name": "RIOHACHA",
+   "children": [
+		{"name": "PATRIMONIO", "value":  11 },
+		{"name": "RIQUEZA", "value":  420 },
+		{"name": "RENTA CUOTAS", "value":  19206 },
+		{"name": "IVA DECLARACIONES", "value":  24873 },
+		{"name": "RETENCIONES", "value":  51564 },
+		{"name": "EXTERNOS", "value":  247179 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  1 },
+		{"name": "GMF", "value":  32 },
+		{"name": "CONSUMO", "value":  1389 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  69 },
+		{"name": "CREE DECLARACIONES", "value":  204 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  255 }		
+	]
+  },   
+  {
+   "name": "SAN ANDRES",
+   "children": [
+		{"name": "PATRIMONIO", "value":  167 },
+		{"name": "RIQUEZA", "value":  688 },
+		{"name": "RENTA CUOTAS", "value":  36949 },
+		{"name": "IVA DECLARACIONES", "value":  21584 },
+		{"name": "RETENCIONES", "value":  44912 },
+		{"name": "EXTERNOS", "value":  12046 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  33 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  31 },
+		{"name": "CREE DECLARACIONES", "value":  235 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  308 }
+	]
+  },   
+  {
+   "name": "SAN JOSE DEL GUAVIARE",
+   "children": [
+		{"name": "RIQUEZA", "value":  96 },
+		{"name": "RENTA CUOTAS", "value":  1956 },
+		{"name": "IVA DECLARACIONES", "value":  2609 },
+		{"name": "RETENCIONES", "value":  9302 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  5 },
+		{"name": "CONSUMO", "value":  244 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  0 },
+		{"name": "CREE DECLARACIONES", "value":  67 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  1 },
+		{"name": "PATRIMONIO", "value":  0 }
+	]
+  },   
+  {
+   "name": "SINCELEJO",
+   "children": [
+		{"name": "RIQUEZA", "value":  1296 },
+		{"name": "PATRIMONIO", "value":  2 },
+		{"name": "RENTA CUOTAS", "value":  29793 },
+		{"name": "IVA DECLARACIONES", "value":  42444 },
+		{"name": "RETENCIONES", "value":  62241 },
+		{"name": "EXTERNOS", "value":  1 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  1 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  2119 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  45 },
+		{"name": "CREE DECLARACIONES", "value":  1482 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  404 }		
+	]
+  },   
+  {
+   "name": "SOGAMOSO",
+   "children": [
+		{"name": "RIQUEZA", "value":  1409 },
+		{"name": "RENTA CUOTAS", "value":  43364 },
+		{"name": "IVA DECLARACIONES", "value":  73960 },
+		{"name": "RETENCIONES", "value":  65028 },
+		{"name": "EXTERNOS", "value":  1 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  43 },
+		{"name": "CONSUMO", "value":  4014 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  108 },
+		{"name": "CREE DECLARACIONES", "value":  320 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  258 },
+		{"name": "PATRIMONIO", "value":  0 }		
+	]
+  },   
+  {
+   "name": "TULUA",
+   "children": [
+		{"name": "PATRIMONIO", "value":  207 },
+		{"name": "RIQUEZA", "value":  1864 },
+		{"name": "RENTA CUOTAS", "value":  64683 },
+		{"name": "IVA DECLARACIONES", "value":  109952 },
+		{"name": "RETENCIONES", "value":  154808 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  862 },
+		{"name": "CONSUMO", "value":  4301 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  33 },
+		{"name": "CREE DECLARACIONES", "value":  108 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  249 }
+	]
+  },   
+  {
+   "name": "TUNJA",
+   "children": [
+		{"name": "RIQUEZA", "value":  998 },
+		{"name": "RENTA CUOTAS", "value":  74830 },
+		{"name": "IVA DECLARACIONES", "value":  104487 },
+		{"name": "RETENCIONES", "value":  194498 },
+		{"name": "EXTERNOS", "value":  11 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  867 },
+		{"name": "CONSUMO", "value":  13541 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  159 },
+		{"name": "CREE DECLARACIONES", "value":  754 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  912 },
+		{"name": "PATRIMONIO", "value":  0 }		
+	]
+  },   
+  {
+   "name": "URABA",
+   "children": [
+		{"name": "RENTA CUOTAS", "value":  0 },
+		{"name": "IVA DECLARACIONES", "value":  0 },
+		{"name": "RETENCIONES", "value":  0 },
+		{"name": "EXTERNOS", "value":  51509 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  0 },
+		{"name": "CONSUMO", "value":  0 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  0 },
+		{"name": "CREE DECLARACIONES", "value":  0 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  0 },
+		{"name": "PATRIMONIO", "value":  0 },
+		{"name": "RIQUEZA", "value":  0 }		
+	]
+  },   
+  {
+   "name": "VALLEDUPAR",
+   "children": [
+		{"name": "RIQUEZA", "value":  3718 },
+		{"name": "PATRIMONIO", "value":  2 },
+		{"name": "RENTA CUOTAS", "value":  48237 },
+		{"name": "IVA DECLARACIONES", "value":  69811 },
+		{"name": "RETENCIONES", "value":  123148 },
+		{"name": "EXTERNOS", "value":  12397 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  26 },
+		{"name": "CONSUMO", "value":  4697 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  82 },
+		{"name": "CREE DECLARACIONES", "value":  1198 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  635 }		
+	]
+  },   
+  {
+   "name": "VILLAVICENCIO",
+   "children": [
+		{"name": "RIQUEZA", "value":  4730 },
+		{"name": "PATRIMONIO", "value":  54 },
+		{"name": "RENTA CUOTAS", "value":  95116 },
+		{"name": "IVA DECLARACIONES", "value":  131871 },
+		{"name": "RETENCIONES", "value":  228407 },
+		{"name": "EXTERNOS", "value":  0 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  491 },
+		{"name": "CONSUMO", "value":  13362 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  843 },
+		{"name": "CREE DECLARACIONES", "value":  1882 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  469 }		
+	]
+  },   
+  {
+   "name": "YOPAL",
+   "children": [
+		{"name": "PATRIMONIO", "value":  7 },
+		{"name": "RIQUEZA", "value":  1128 },
+		{"name": "RENTA CUOTAS", "value":  22522 },
+		{"name": "IVA DECLARACIONES", "value":  61488 },
+		{"name": "RETENCIONES", "value":  89532 },
+		{"name": "EXTERNOS", "value":  4201 },
+		{"name": "SEGURIDAD DEMOCRATICA", "value":  0 },
+		{"name": "PRECIOS DE TRANSFERENCIA", "value":  0 },
+		{"name": "GMF", "value":  68 },
+		{"name": "CONSUMO", "value":  1993 },
+		{"name": "GASOLINA Y ACPM", "value":  0 },
+		{"name": "CREE RETENCIONES", "value":  17 },
+		{"name": "CREE DECLARACIONES", "value":  1099 },
+		{"name": "AL CARBONO", "value":  0 },
+		{"name": "POR CLASIFICAR", "value":  235 }
+	]
+  }
+ ]
+}
