@@ -2,7 +2,6 @@
  "name": "RECAUDO",
  "children": [
   {
-  {
    "name": "ADUANAS DE CUCUTA",
    "children": [
 		{"name": "RENTA CUOTAS", "value":  0 },
